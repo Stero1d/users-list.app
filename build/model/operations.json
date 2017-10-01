@@ -1,0 +1,255 @@
+{
+    "operationsUsers": [
+        {
+            "user_id": "-00001",
+            "operations": [
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 5000
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": 450
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -780
+                },
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 1200
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -480
+                }
+            ]
+        },
+
+        {
+            "user_id": "-0001",
+            "operations": [
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 300
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": 450
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -780
+                },
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 200
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -480
+                }
+            ]
+        },
+        {
+            "user_id": "-01",
+            "operations": [
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 25000
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": 450
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -380
+                },
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 1200
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -480
+                }
+            ]
+        },
+        {
+            "user_id": "-1",
+            "operations": [
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 3400
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": 450
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -580
+                },
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 1200
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -480
+                }
+            ]
+        },
+        {
+            "user_id": "-10",
+            "operations": [
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 580
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": 450
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -780
+                },
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 3200
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -140
+                }
+            ]
+        },
+        {
+            "user_id": "-11",
+            "operations": [
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 5000
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": 450
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -780
+                },
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 1200
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -480
+                }
+            ]
+        },
+        {
+            "user_id": "-2",
+            "operations": [
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 5000
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": 450
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -780
+                },
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 1900
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -480
+                }
+            ]
+        },
+        {
+            "user_id": "-3",
+            "operations": [
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 5000
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": 450
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -780
+                },
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 1200
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -180
+                }
+            ]
+        },
+        {
+            "user_id": "-5",
+            "operations": [
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 5000
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": 450
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -780
+                },
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 4500
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -480
+                }
+            ]
+        },
+        {
+            "user_id": "-7",
+            "operations": [
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 5000
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": 450
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -780
+                },
+                {"operation":"replenishment", 
+                "data": "12.05.2017",
+                "summa": 1200
+                },
+                {"operation":"debit", 
+                "data": "12.05.2017",
+                "summa": -480
+                }
+            ]
+        }
+    ]
+}

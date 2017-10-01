@@ -1,0 +1,165 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+html * {
+    max-height: 1000000px;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    border: none;
+    outline: none;
+    padding: 0;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    z-index: 1;
+}.content {
+	min-width: 1100px;
+	width: 1100px;
+	margin: 0 auto;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+.none {
+    display: none !important;
+ }
+ 
+.page-header {
+	padding-bottom: 0px;
+	font-size: 36px!important;
+	margin: 0px;
+	margin-top: 50px;
+	height: 50px;
+} 
+
+.table > thead > tr > th, .table > tbody > tr > th,
+.table > tfoot > tr > th, .table > thead > tr > td,
+.table > tbody > tr > td, .table > tfoot > tr > td {
+	text-align: center;
+ }
+ 
+.table > thead > tr > th {
+	border-bottom: none;
+ }
+
+ .test-input.form-control {
+	width: auto;
+ }
+
+ .form {
+	margin: 20px 0px;
+	display: flex;
+	justify-content: space-between;
+ }
+  
+ .operations div {
+	 padding: 10px 0px;
+	 margin: 10px 0px;
+	 font-size: 21px;
+	 text-align: left;
+ }
+
+ .btn-operations {
+	 font-size: 21px;
+	 padding: 0px 20px!important;
+	 float: right;
+ }
+
+ .edit-form .test-input.form-control {
+    width: 730px;
+    margin: 10px 0px;
+    font-size: 21px;
+ }
+
+ .edit-form span {
+	margin-top: 15px;
+	margin-left: 10px;
+	float: left;
+	font-size: 18px;
+ }
+ 
+.edit-content {
+	 width: 730px;
+	 margin:0 auto;
+ }
+
+ .edit-form {
+	display: flex;
+	flex-wrap: wrap;
+ }
+
+ .balance {
+	 font-size: 21px;
+ }
+
+ .balance div{
+	margin: 10px 0px;
+}
+
+.balance-container input {
+	width: 100%!important;
+}
+
+.col-md-6 {
+	padding: 0px!important;
+	margin-left: 10px;
+}
+
+.col-md-8 {
+	padding: 0px!important;
+}
+
+.col-md-12 {
+	padding: 0px!important;
+}
+
+.btn-save {
+	margin-top: 10px;
+    padding: 3px 20px;
+    font-size: 18px;
+    float: right;
+}
